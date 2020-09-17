@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib_papon.a  CMakeFiles/lib_papon.dir/papon/supervoxel/src/sequential_supervoxel_clustering.cpp.o
+/usr/bin/ranlib liblib_papon.a
